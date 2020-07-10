@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBanHang.Data", "ShopBanHang.Data\ShopBanHang.Data.csproj", "{0F34E318-FBAE-42D4-975A-689DBDAD0376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBanHang.Application", "ShopBanHang.Application\ShopBanHang.Application.csproj", "{23D39E72-827D-430E-8FEA-AE6E51274CE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{4E24FD30-ACE7-4FE9-9903-BA92AB06285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E24FD30-ACE7-4FE9-9903-BA92AB06285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E24FD30-ACE7-4FE9-9903-BA92AB06285E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F34E318-FBAE-42D4-975A-689DBDAD0376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F34E318-FBAE-42D4-975A-689DBDAD0376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F34E318-FBAE-42D4-975A-689DBDAD0376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F34E318-FBAE-42D4-975A-689DBDAD0376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D39E72-827D-430E-8FEA-AE6E51274CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D39E72-827D-430E-8FEA-AE6E51274CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D39E72-827D-430E-8FEA-AE6E51274CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D39E72-827D-430E-8FEA-AE6E51274CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
